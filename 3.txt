@@ -1,1 +1,1 @@
-i am '3.txt' - nice
+i am '3.txt' -
